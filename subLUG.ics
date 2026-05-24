@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TWShow Data//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ZJUT Linux User Group 活动
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:HD-2025110300010@twshow
+DTSTAMP:20260524T045718Z
+DTSTART;TZID=Asia/Shanghai:20251108T183000
+DTEND;TZID=Asia/Shanghai:20251108T203000
+SUMMARY:Linux安装派对
+LOCATION:朝晖新教404 / 朝晖校区
+DESCRIPTION:带领新同学们体验一下在自己电脑上安装一个Linux发行版，迈出了解这个系统的第一步\n地点: 朝晖新教404\n校区: 朝晖校
+ 区\n指导单位: 计算机科学与技术学院（软件学院）\n主办单位: ZJUT Linux User Group\n联系人: 沈宽 1575722395
+ 9\n活动编号: HD-2025110300010\n类别: 创新训练与创业实践（创新训练）\n活动学时: 2.0\n报名: 2025/11/03 
+ 18:54 - 2025/11/08 21:00\n状态: 活动完成
+CATEGORIES:创新训练与创业实践（创新训练）\,休闲\,科技
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-2025120300019@twshow
+DTSTAMP:20260524T045718Z
+DTSTART;TZID=Asia/Shanghai:20251211T090000
+DTEND;TZID=Asia/Shanghai:20251211T183000
+SUMMARY:ZJUTLUG河畔义修及开源游戏体验
+LOCATION:朝晖校区上塘河畔校医院对面（原工大眼镜），建议加群，如有变更会在群内提醒 / 朝晖校区
+DESCRIPTION:欢迎加入QQ群（663614559），以免可能的地点变更造成的不便。\n【河畔义修】—— 用技术传递温暖\n我们有5位左右比较
+ 专业的同学来帮大家解决电脑问题（主要针对Windows/Linux系统）。电脑卡了？广告多？C盘又要满了？我们在这。维修过程中提供U盘备份数据，会尽
+ 量保证你的数据安全。我们也可以为老旧电脑安装轻量级Linux系统，让5年前的设备也能流畅运行。\n【开源游戏体验区】—— 重新定义游戏快乐\n体验《
+ 0 A.D.》《SuperTuxKart》《Minetest》等高质量开源游戏，无需充值也能享受完整乐趣；尝试终端命令行游戏《ninvaders》《
+ bsdgames》，感受屏幕上字符间的趣味。\n地点: 朝晖校区上塘河畔校医院对面（原工大眼镜），建议加群，如有变更会在群内提醒\n校区: 朝晖校区
+ \n指导单位: 计算机科学与技术学院（软件学院）\n主办单位: 浙江工业大学精弘网络\,ZJUT Linux User Group\n联系人: 沈宽
+  15757223959\n活动编号: HD-2025120300019\n类别: 创新训练与创业实践（创新训练）\n活动学时: 2.0\n报名: 
+ 2025/12/03 22:08 - 2025/12/11 18:30\n状态: 活动完成
+CATEGORIES:创新训练与创业实践（创新训练）\,文化\,休闲\,科技
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-2026031100001@twshow
+DTSTAMP:20260524T045718Z
+DTSTART;TZID=Asia/Shanghai:20260314T093000
+DTEND;TZID=Asia/Shanghai:20260314T183000
+SUMMARY:开发环境小摊
+LOCATION:朝晖校区尚10自修室 / 朝晖校区
+DESCRIPTION:帮助有需要的同学安装配置常用的开发环境，比如conda，golang，node.js等\n建议加群663614559获得活动最
+ 新消息\n地点: 朝晖校区尚10自修室\n校区: 朝晖校区\n指导单位: 计算机科学与技术学院（软件学院）\n主办单位: ZJUT Linux Us
+ er Group\n联系人: 沈宽 15757223959\n活动编号: HD-2026031100001\n类别: 创新训练与创业实践（创新训练）
+ \n活动学时: 2.0\n报名: 2026/03/11 09:11 - 2026/03/14 19:00\n状态: 活动完成
+CATEGORIES:创新训练与创业实践（创新训练）\,文化\,科技
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-2026032300009@twshow
+DTSTAMP:20260524T045718Z
+DTSTART;TZID=Asia/Shanghai:20260328T100000
+DTEND;TZID=Asia/Shanghai:20260328T160000
+SUMMARY:计算机研会 × LUG 电脑服务站
+LOCATION:屏峰支干路 / 屏峰校区
+DESCRIPTION:帮助在屏峰的有需要的同学进行电脑清灰，或清理C盘\n提供计算机日常知识科普\n欢迎加群663614559\n地点: 屏峰支干路
+ \n校区: 屏峰校区\n指导单位: 计算机科学与技术学院（软件学院）\n主办单位: 计算机科学与技术学院、软件学院研究生会\,ZJUT Linux 
+ User Group\n联系人: 沈宽 15757223959\n活动编号: HD-2026032300009\n类别: 社会责任感与家国情怀（劳动
+ 实践）\n活动学时: 2.0\n报名: 2026/03/24 00:00 - 2026/03/28 17:00\n状态: 活动完成
+CATEGORIES:社会责任感与家国情怀（劳动实践）\,休闲\,科技
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-2026042800014@twshow
+DTSTAMP:20260524T045718Z
+DTSTART;TZID=Asia/Shanghai:20260510T132000
+DTEND;TZID=Asia/Shanghai:20260510T151000
+SUMMARY:Linux上的MC服务器 第一课
+LOCATION:新教701 / 朝晖校区
+DESCRIPTION:本课面向零Linux基础的同学。主要讲解：终端操作、文件目录管理、权限控制与后台服务运行。通过实战指令演练，快速掌握服务器环境
+ 配置要点，为后续部署Minecraft服务端扫清障碍。\n建议感兴趣的同学直接加入qq交流群（LUG：663614559；MC：763729280）
+ 进一步了解活动详情\n活动具体地点暂定，如有更新，群内通知\n地点: 新教701\n校区: 朝晖校区\n指导单位: 计算机科学与技术学院（软件学院）
+ \n主办单位: 浙江工业大学MC方块协会\,ZJUT Linux User Group\n联系人: 秦文博 19979610783\n活动编号: H
+ D-2026042800014\n类别: 创新训练与创业实践（创新训练）\n活动学时: 2.0\n报名: 2026/04/28 21:46 - 20
+ 26/05/10 16:30\n状态: 活动完成
+CATEGORIES:创新训练与创业实践（创新训练）\,休闲\,科技
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-2026042700009@twshow
+DTSTAMP:20260524T045718Z
+DTSTART;TZID=Asia/Shanghai:20260517T133000
+DTEND;TZID=Asia/Shanghai:20260517T151000
+SUMMARY:Linux上的MC服务器 第二课
+LOCATION:子良A539 / 朝晖校区
+DESCRIPTION:课程承接第一课Linux入门内容，精讲Linux用户账号管理、远程连接管理等服务器核心底层知识，夯实运维基本功，为后续MC服务
+ 端架设、内网穿透等进阶内容打好必备基础\n请参与的同学带好笔记本电脑（或远程桌面设备）！！！\n建议感兴趣的同学直接加入qq交流群（LUG：6636
+ 14559；MC：763729280）进一步了解活动详情\n活动具体地点暂定，如有更新，群内通知\n地点: 子良A539\n校区: 朝晖校区\n指导
+ 单位: 计算机科学与技术学院（软件学院）\n主办单位: 浙江工业大学MC方块协会\,ZJUT Linux User Group\n联系人: 秦文博 
+ 19979610783\n活动编号: HD-2026042700009\n类别: 创新训练与创业实践（创新训练）\n活动学时: 2.0\n报名: 2
+ 026/05/09 15:10 - 2026/05/17 18:17\n状态: 活动结束
+CATEGORIES:创新训练与创业实践（创新训练）\,科技
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-2026042700010@twshow
+DTSTAMP:20260524T045718Z
+DTSTART;TZID=Asia/Shanghai:20260524T133000
+DTEND;TZID=Asia/Shanghai:20260524T151000
+SUMMARY:Linux上的MC服务器 第三课
+LOCATION:新教303 / 朝晖校区
+DESCRIPTION:课程承接前两课Linux入门、用户与网络的所学内容，精讲MC主流服务端的分类与选型、运行环境搭建、参数调优与本地启动测试等核心
+ 实操内容，手把手带你从零搭建出专属MC游戏服务器，为后续云服务器上线、FRP外网联机的进阶课程做好关键铺垫\n建议感兴趣的同学直接加入qq交流群（L
+ UG：663614559；MC：763729280）进一步了解活动详情\n活动具体地点暂定，如有更新，群内通知\n地点: 新教303\n校区: 朝晖
+ 校区\n指导单位: 计算机科学与技术学院（软件学院）\n主办单位: 浙江工业大学MC方块协会\,ZJUT Linux User Group\n联系人
+ : 秦文博 19979610783\n活动编号: HD-2026042700010\n类别: 创新训练与创业实践（创新训练）\n活动学时: 2.0\
+ n报名: 2026/05/17 15:10 - 2026/05/24 15:40\n状态: 正在报名
+CATEGORIES:创新训练与创业实践（创新训练）\,休闲\,科技
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-2026042700011@twshow
+DTSTAMP:20260524T045718Z
+DTSTART;TZID=Asia/Shanghai:20260531T133000
+DTEND;TZID=Asia/Shanghai:20260531T151000
+SUMMARY:Linux上的MC服务器 第四课
+LOCATION:新教303 / 朝晖校区
+DESCRIPTION:课程承接前三课的全部内容，精简云服务器的选型与初始化部署、FRP内网穿透核心原理、公网联机调试优化等实操干货，手把手打通内网到
+ 公网的全流程，让你搭建的MC服务器可以真正对外公开、和好友远程稳定联机，为本系列完整MC开服教程画上收尾闭环\n建议感兴趣的同学直接加入qq交流群（
+ LUG：663614559；MC：763729280）进一步了解活动详情\n活动具体地点暂定，如有更新，群内通知\n地点: 新教303\n校区: 朝
+ 晖校区\n指导单位: 计算机科学与技术学院（软件学院）\n主办单位: 浙江工业大学MC方块协会\,ZJUT Linux User Group\n联系
+ 人: 秦文博 19979610783\n活动编号: HD-2026042700011\n类别: 创新训练与创业实践（创新训练）\n活动学时: 2.0
+ \n报名: 2026/05/24 15:10 - 2026/05/31 15:40\n状态: 正在报名
+CATEGORIES:创新训练与创业实践（创新训练）\,休闲\,科技
+END:VEVENT
+END:VCALENDAR
