@@ -12,6 +12,7 @@ OUT_FULL = ROOT / "subFull.ics"
 OUT_RECENT = ROOT / "subRecent.ics"
 OUT_UPCOMING = ROOT / "subUpcoming.ics"
 OUT_RECRUITING = ROOT / "subRecruiting.ics"
+OUT_LUG = ROOT / "subLUG.ics"
 
 TZ = ZoneInfo("Asia/Shanghai")
 DATE_FORMAT = "%Y/%m/%d %H:%M"
@@ -179,11 +180,17 @@ def main() -> None:
     recruiting = [
         item for item in items if (item.get("state") or "").strip() == "正在报名"
     ]
+    lugRelated = [
+        item
+        for item in items
+        if "ZJUT Linux User Group" in (item.get("initiateOrgan") or "").strip()
+    ]
 
     write_output(OUT_FULL, build_calendar(full, "第二课堂活动"))
     write_output(OUT_RECENT, build_calendar(recent, "近期第二课堂活动"))
     write_output(OUT_UPCOMING, build_calendar(upcoming, "即将到来的第二课堂活动"))
     write_output(OUT_RECRUITING, build_calendar(recruiting, "正在报名的第二课堂活动"))
+    write_output(OUT_LUG, build_calendar(lugRelated, "ZJUT Linux User Group 活动"))
 
 
 if __name__ == "__main__":
