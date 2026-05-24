@@ -1,0 +1,37 @@
+name: fetch-data
+
+on:
+  workflow_dispatch:
+    inputs:
+      token:
+        description: API token
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install --no-cache-dir requests
+
+      - name: Mask token
+        run: echo "::add-mask::${{ inputs.token }}"
+
+      - name: Fetch data
+        env:
+          TW_SHOW_TOKEN: ${{ inputs.token }}
+        run: python scripts/fetch_data.py
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
