@@ -16,97 +16,8 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:HD-2026051800006@twshow
-DTSTAMP:20260524T050015Z
-DTSTART;TZID=Asia/Shanghai:20260524T133000
-DTEND;TZID=Asia/Shanghai:20260524T143000
-SUMMARY:2026纵横杯决赛 冠军赛（观众）
-LOCATION:朝晖校区邵科馆二楼 / 朝晖校区
-DESCRIPTION:辩论，是智慧的交锋，是思想的远行；言辞，是态度的表达，是立场的坚守。当逻辑与理性相遇，当观点与立场碰撞，一场关于思考、表达与格
- 局的盛宴就此拉开帷幕。在这里，你可以跨越学科边界，深挖议题背后的逻辑与价值；在这里，你会遇见同频共振的伙伴，在思想碰撞中彼此启发、并肩成长；在这里，
- 你能用清晰表达捍卫立场、展现风采。不断思考、勇敢表达、理性坚守，终将让你收获更成熟的思维与更从容的自己。\n地点: 朝晖校区邵科馆二楼\n校区: 朝
- 晖校区\n指导单位: 团委\n主办单位: 校学生会\n联系人: 应世哲 13336078352\n活动编号: HD-2026051800006\n类
- 别: 人文素养与国际视野（素质拓展）\n活动学时: 2.0\n报名: 2026/05/18 11:30 - 2026/05/24 13:00\n状态
- : 正在报名
-CATEGORIES:人文素养与国际视野（素质拓展）\,文化\,艺术
-END:VEVENT
-BEGIN:VEVENT
-UID:HD-2026051800005@twshow
-DTSTAMP:20260524T050015Z
-DTSTART;TZID=Asia/Shanghai:20260524T133000
-DTEND;TZID=Asia/Shanghai:20260524T150000
-SUMMARY:2026纵横杯决赛 冠军赛（选手）
-LOCATION:朝晖校区邵科馆二楼 / 朝晖校区
-DESCRIPTION:辩论，是智慧的交锋，是思想的远行；言辞，是态度的表达，是立场的坚守。当逻辑与理性相遇，当观点与立场碰撞，一场关于思考、表达与格
- 局的盛宴就此拉开帷幕。在这里，你可以跨越学科边界，深挖议题背后的逻辑与价值；在这里，你会遇见同频共振的伙伴，在思想碰撞中彼此启发、并肩成长；在这里，
- 你能用清晰表达捍卫立场、展现风采。不断思考、勇敢表达、理性坚守，终将让你收获更成熟的思维与更从容的自己。\n地点: 朝晖校区邵科馆二楼\n校区: 朝
- 晖校区\n指导单位: 团委\n主办单位: 校学生会\n联系人: 应世哲 13336078352\n活动编号: HD-2026051800005\n类
- 别: 人文素养与国际视野（素质拓展）\n活动学时: 3.0\n报名: 2026/05/18 11:28 - 2026/05/24 13:00\n状态
- : 正在报名
-CATEGORIES:人文素养与国际视野（素质拓展）\,文化\,艺术
-END:VEVENT
-BEGIN:VEVENT
-UID:HD-2026050900013@twshow
-DTSTAMP:20260524T050015Z
-DTSTART;TZID=Asia/Shanghai:20260524T133000
-DTEND;TZID=Asia/Shanghai:20260524T170000
-SUMMARY:中外历史武术介绍及体验
-LOCATION:朝晖校区操场草坪 / 朝晖校区
-DESCRIPTION:本次活动将带您同时走进中式兵击与西方历史武术（HEMA）的刀剑世界。上半场讲座将介绍兵击的概念、训练器械（尼龙/海绵/安全钢剑
- ）及规则体系，同时会介绍中西方刀剑的基础步伐与攻防动作，并分享“距离控制”与“时机选择”的共通战术智慧；下半场为体验环节，可在穿戴全套护具，手持安全
- 器械的前提下，学习中式步法与劈撩崩刺，或西方长剑的斩刺与架挡，并在分级条件对抗中亲身感受跨文化的冷兵器较艺乐趣。活动全程安全可控，零基础友好——无论
- 您是偏爱中国侠气还是欧洲骑士精神，都可“执剑而来，尽兴而归”。\n地点: 朝晖校区操场草坪\n校区: 朝晖校区\n指导单位: 体育军训部\n主办单位
- : ZJUT历史武术社\n联系人: 林建昊 13282860717\n活动编号: HD-2026050900013\n类别: 人文素养与国际视野（素
- 质拓展）\n活动学时: 3.5\n报名: 2026/05/13 00:00 - 2026/05/24 00:00\n状态: 正在报名
-CATEGORIES:人文素养与国际视野（素质拓展）\,体育
-END:VEVENT
-BEGIN:VEVENT
-UID:HD-2026042700010@twshow
-DTSTAMP:20260524T050015Z
-DTSTART;TZID=Asia/Shanghai:20260524T133000
-DTEND;TZID=Asia/Shanghai:20260524T151000
-SUMMARY:Linux上的MC服务器 第三课
-LOCATION:新教303 / 朝晖校区
-DESCRIPTION:课程承接前两课Linux入门、用户与网络的所学内容，精讲MC主流服务端的分类与选型、运行环境搭建、参数调优与本地启动测试等核心
- 实操内容，手把手带你从零搭建出专属MC游戏服务器，为后续云服务器上线、FRP外网联机的进阶课程做好关键铺垫\n建议感兴趣的同学直接加入qq交流群（L
- UG：663614559；MC：763729280）进一步了解活动详情\n活动具体地点暂定，如有更新，群内通知\n地点: 新教303\n校区: 朝晖
- 校区\n指导单位: 计算机科学与技术学院（软件学院）\n主办单位: 浙江工业大学MC方块协会\,ZJUT Linux User Group\n联系人
- : 秦文博 19979610783\n活动编号: HD-2026042700010\n类别: 创新训练与创业实践（创新训练）\n活动学时: 2.0\
- n报名: 2026/05/17 15:10 - 2026/05/24 15:40\n状态: 正在报名
-CATEGORIES:创新训练与创业实践（创新训练）\,休闲\,科技
-END:VEVENT
-BEGIN:VEVENT
-UID:HD-2026052000008@twshow
-DTSTAMP:20260524T050015Z
-DTSTART;TZID=Asia/Shanghai:20260524T140000
-DTEND;TZID=Asia/Shanghai:20260524T160000
-SUMMARY:“青风”资助文化节 | “遇见更好的自己”形象素养课
-LOCATION:屏峰校区健行楼B416 / 屏峰校区
-DESCRIPTION:想在面试中脱颖而出？想拥有得体仪态、自信气场？想快速掌握淡妆技巧、提升个人形象？\n一站式学生社区特邀双师坐镇，一堂课搞定形象
-  + 礼仪 + 面试三大核心！面向全体在校学生，资助对象优先，用实用干货帮你提升就业竞争力，遇见更闪耀的自己～\n地点: 屏峰校区健行楼B416\n
- 校区: 屏峰校区\n指导单位: 设计与建筑学院\n主办单位: 设计与建筑学院团委\n联系人: 管俊清 19953629588\n活动编号: HD-2
- 026052000008\n类别: 社会责任感与家国情怀（劳动实践）\n活动学时: 3.0\n报名: 2026/05/20 00:00 - 2026
- /05/24 16:00\n状态: 正在报名
-CATEGORIES:社会责任感与家国情怀（劳动实践）
-END:VEVENT
-BEGIN:VEVENT
-UID:HD-2026051100006@twshow
-DTSTAMP:20260524T050015Z
-DTSTART;TZID=Asia/Shanghai:20260524T140000
-DTEND;TZID=Asia/Shanghai:20260524T163000
-SUMMARY:螺钿凝华，锦簪拾韵
-LOCATION:浙江工业大学朝晖校区上塘河畔 / 朝晖校区
-DESCRIPTION:活动正式开始后，首先由讲解人员介绍非遗螺钿工艺的起源、历史发展与文化内涵，带领大家认识这项传统技艺的独特价值。随后详细演示螺钿
- 手工制作的完整流程，包括贝壳选材、切割打磨、纹样拼贴、镶嵌固定、封层修饰等关键步骤。讲解完毕进入活动核心环节，参与者亲手动手实操，跟随指导一步步创作
- ，沉浸式体验螺钿工艺的精巧技法。制作完成后，大家展示分享成品，相互交流心得，在实践中感受传统非遗的匠心魅力，近距离领略古典工艺之美，推动非遗文化的传
- 承与普及。\n地点: 浙江工业大学朝晖校区上塘河畔\n校区: 朝晖校区\n指导单位: 人文学院\n主办单位: 浙江工业大学十二章汉服社\n联系人: 
- 余宗傕 19700764959\n活动编号: HD-2026051100006\n类别: 社会责任感与家国情怀（劳动实践）\n活动学时: 2.0\n
- 报名: 2026/05/12 00:00 - 2026/05/24 16:30\n状态: 正在报名
-CATEGORIES:社会责任感与家国情怀（劳动实践）\,文化\,艺术
-END:VEVENT
-BEGIN:VEVENT
 UID:HD-2026052200001@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260524T183000
 DTEND;TZID=Asia/Shanghai:20260524T203000
 SUMMARY:2025—2026学年“闪药新程”青马工程第二期新生团课
@@ -120,7 +31,7 @@ CATEGORIES:政治理论素养（政治素养）
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026052100008@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260524T183000
 DTEND;TZID=Asia/Shanghai:20260524T203000
 SUMMARY:工大映画---《东成西就》
@@ -137,7 +48,7 @@ CATEGORIES:人文素养与国际视野（素质拓展）\,文化\,艺术\,音乐
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026051900013@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260524T183000
 DTEND;TZID=Asia/Shanghai:20260524T200000
 SUMMARY:谷语干训第四期—答辩技巧
@@ -151,7 +62,7 @@ CATEGORIES:人文素养与国际视野（素质拓展）
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026051900004@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260524T183000
 DTEND;TZID=Asia/Shanghai:20260524T193000
 SUMMARY:教育经典阅读推广系列讲座：努力触摸教育的真谛——读陶行知《中国教育改造》
@@ -166,7 +77,7 @@ CATEGORIES:人文素养与国际视野（素质拓展）\,文化
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026052000011@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260525T163000
 DTEND;TZID=Asia/Shanghai:20260525T180000
 SUMMARY:“从心出发·艺启疗愈”——德清县心理协会5.25沉浸式心理沙龙
@@ -180,7 +91,7 @@ CATEGORIES:人文素养与国际视野（素质拓展）\,休闲
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026051800011@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260527T121500
 DTEND;TZID=Asia/Shanghai:20260527T133000
 SUMMARY:“遇见·关系”——人际与沟通剧场团体活动
@@ -194,7 +105,7 @@ CATEGORIES:社会责任感与家国情怀（劳动实践）\,休闲
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026052200005@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260527T153000
 DTEND;TZID=Asia/Shanghai:20260527T170000
 SUMMARY:中信证券浙江分公司2027校招培训生宣讲会
@@ -207,7 +118,7 @@ CATEGORIES:创新训练与创业实践（创新训练）\,文化
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026052100001@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260529T120000
 DTEND;TZID=Asia/Shanghai:20260529T170000
 SUMMARY:浙江工业大学校友创新合作大会暨产业发展博览会参访
@@ -227,7 +138,7 @@ CATEGORIES:创新训练与创业实践（创新训练）\,文化\,科技
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026052000009@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260530T120000
 DTEND;TZID=Asia/Shanghai:20260531T180000
 SUMMARY:心动计划——追风相遇，盘动青春｜设计与建筑学院飞盘运动会热血开场
@@ -242,7 +153,7 @@ CATEGORIES:人文素养与国际视野（素质拓展）
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026052100010@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260530T183000
 DTEND;TZID=Asia/Shanghai:20260530T203000
 SUMMARY:工大映画--《阿甘正传》
@@ -258,7 +169,7 @@ CATEGORIES:人文素养与国际视野（素质拓展）\,文化\,艺术\,休闲
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026052200016@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260530T190000
 DTEND;TZID=Asia/Shanghai:20260530T200000
 SUMMARY:“畅想杯”英语原声配音大赛
@@ -272,7 +183,7 @@ CATEGORIES:社会责任感与家国情怀（劳动实践）
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026052200015@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260530T190000
 DTEND;TZID=Asia/Shanghai:20260530T200000
 SUMMARY:“畅想杯”英语原声配音大赛
@@ -285,8 +196,23 @@ DESCRIPTION:设计与建筑学院学科部将于2026年5月30日举办浙江工�
 CATEGORIES:社会责任感与家国情怀（劳动实践）
 END:VEVENT
 BEGIN:VEVENT
+UID:HD-2026051500002@twshow
+DTSTAMP:20260524T063108Z
+DTSTART;TZID=Asia/Shanghai:20260531T090000
+DTEND;TZID=Asia/Shanghai:20260531T170000
+SUMMARY:社团文化周线下推广：教你从0装MC！（第二期）
+LOCATION:屏峰校区主干路（西苑西侧） / 屏峰校区
+DESCRIPTION:为配合社团文化周活动进行与后续社团活动引入，本社团特推出线下MC推广教学第二期（屏峰校区），为初入MC社区的同学解决从起步到正
+ 常玩上MC的疑难问题。可现场咨询的问题包括但不限于：如何解压缩包？如何购买正版账号？如何多人游戏？\n    本活动原定24日·，因挑战杯调整为31
+ 日。\n    更多精彩详情加入社群了解更多：763729280\n地点: 屏峰校区主干路（西苑西侧）\n校区: 屏峰校区\n指导单位: 计算机科学
+ 与技术学院（软件学院）\n主办单位: 浙江工业大学MC方块协会\n联系人: 张俊辉 19550213350\n活动编号: HD-2026051500
+ 002\n类别: 创新训练与创业实践（创新训练）\n活动学时: 2.0\n报名: 2026/05/18 00:00 - 2026/05/31 18:
+ 00\n状态: 正在报名
+CATEGORIES:创新训练与创业实践（创新训练）\,科技
+END:VEVENT
+BEGIN:VEVENT
 UID:HD-2026042700011@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260531T133000
 DTEND;TZID=Asia/Shanghai:20260531T151000
 SUMMARY:Linux上的MC服务器 第四课
@@ -301,7 +227,7 @@ CATEGORIES:创新训练与创业实践（创新训练）\,休闲\,科技
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026052100012@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260531T183000
 DTEND;TZID=Asia/Shanghai:20260531T203000
 SUMMARY:工大映画--《罗马假日》
@@ -317,7 +243,7 @@ CATEGORIES:人文素养与国际视野（素质拓展）\,文化\,艺术\,休闲
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-2026052100003@twshow
-DTSTAMP:20260524T050015Z
+DTSTAMP:20260524T063108Z
 DTSTART;TZID=Asia/Shanghai:20260608T140000
 DTEND;TZID=Asia/Shanghai:20260608T170000
 SUMMARY:2026年度“融媒素养提升计划”-“从应用到开发--AIGC的几种创新维度”培训会
